@@ -1,5 +1,5 @@
 # Tira_HT
-Kurssin 'Tietorakenteet ja algoritmit' harkkatyö.
+Kurssin 'Tietorakenteet ja algoritmit' harkkatyö (Syksy 2021).
 
 Tehtävän kuvaus:
 
